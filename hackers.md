@@ -2,3 +2,4 @@
 
 - Nick
 - Vivek T S
+- Rinku K J
