@@ -2,4 +2,5 @@
 
 - Nick
 - Vivek T S
--Nezmi k.A
+- Nezmi k.A
+- Binishamol Joby
